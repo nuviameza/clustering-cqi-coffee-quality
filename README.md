@@ -105,6 +105,6 @@ El análisis utiliza `random_state=42` en los procedimientos aleatorios para fav
 
 El notebook exporta automáticamente las tablas de métricas, resultados de optimización, concordancia entre algoritmos y asignaciones finales de clústeres en formato CSV.
 
-## Autora
+## Autor
 
 **Nuvia Meza**
