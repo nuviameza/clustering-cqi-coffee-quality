@@ -61,7 +61,7 @@ Los resultados sugieren dos perfiles principales: un grupo con puntuaciones sens
 ```text
 .
 ├── notebooks/
-│   └── Clustering_CQI.ipynb
+│   └── Clustering_CQI_NuviaM.ipynb
 ├── results/
 │   ├── metrics_comparison.csv
 │   ├── cluster_agreement.csv
